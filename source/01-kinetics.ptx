@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chemical Kinetics</title>
+
+  <introduction>
+    <p>You can use these notes to solve problems and participate during
+      class—the goal is to save you time by eliminating the need to copy problems down by hand.</p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-section-name.ptx" />
+
+</chapter>
