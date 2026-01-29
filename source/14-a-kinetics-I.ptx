@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chemical Kinetics I</title>
+
+  <p> <em>Reaction Rates and Stoichiometry.</em> First, we define reaction rate
+    and note the dependence of rates of change in concentration on reaction
+    stoichiometry. </p>
+
+  <p>
+      <ul>
+      <li>We distinguish between <term>instantaneous rate</term> (<m>d[]/dt</m>) and <term>average rate</term> (<m>\Delta []/\Delta t</m>).</li>
+      <li>Rates of consumption (reactants) and production (products) depend on the stoichiometry of the reaction.
+        Species with higher stoichiometric coefficients are consumed (produced) more rapidly!</li>
+      <li><term>Standard rate</term> ("rate") is the concentration of reaction occurrences ("reactions") per unit time.</li>
+    </ul>
+  </p>
+
+  <p>
+    <image source="14-1-conc-time-graph.png" width="90%">A plot of the concentrations of A, B, and C over time according to the reaction A plus 2 B goes to 3 C.</image>    
+  </p>
+
+  <p>
+    Relations between instantaneous rates of consumption and production:
+  </p>
+  <p>
+    <m>-\frac{1}{1} \frac{d[\ce{A}]}{dt} = -\frac{1}{2} \frac{d[\ce{B}]}{dt} = +\frac{1}{3} \frac{d[\ce{C}]}{dt}</m>
+  </p>
+  
+  <exercise>
+    <statement>
+      <p>Consider the reaction of ammonia with oxygen gas, a balanced equation for which is given below.</p>
+      <p><m>\ce{4 NH3(g) + 5 O2(g) → 4 NO(g) + 6 H2O(g)}</m></p>
+      <p>How are the rate of consumption of <m>\ce{O2}</m> and the rate of production of <m>\ce{NO}</m> related? Express the relation as a mathematical equation.</p>
+      <p>
+        If the rate of consumption of <m>\ce{O2}</m> is <ndash />0.051 M/min, what is the rate of production of <m>\ce{NO}</m>?
+      </p>
+    </statement>
+    <solution>
+      <p>
+        Solution goes here!
+      </p>
+    </solution>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        The rate of production of <m>\ce{N2(g)}</m> in the reaction below is 0.016 M/s.
+      </p>
+      <p>
+        <m>\ce{2 NO(g) + 2 H2(g) -> N2(g) + 2 H2O(g)}</m>
+      </p>
+      <p>
+        What is the rate of consumption of <m>\ce{H2(g)}</m>?
+        Enter your response in units of molarity per second (M/s) to the nearest 0.001 M/s.
+      </p>
+    </statement>
+    <solution>
+      <p>
+        Solution goes here!
+      </p>
+    </solution>
+  </exercise>
+</section>

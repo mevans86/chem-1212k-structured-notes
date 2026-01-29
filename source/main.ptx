@@ -12,7 +12,7 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./01-kinetics.ptx" />
+    <xi:include href="./14-kinetics.ptx" />
 
 
     <!-- Include backmatter -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="14-kinetics" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Chemical Kinetics</title>
 
   <introduction>
@@ -9,6 +9,6 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="14-a-kinetics-I.ptx" />
 
 </chapter>
