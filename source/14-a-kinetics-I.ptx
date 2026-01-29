@@ -33,7 +33,7 @@
       <p><m>\ce{4 NH3(g) + 5 O2(g) → 4 NO(g) + 6 H2O(g)}</m></p>
       <p>How are the rate of consumption of <m>\ce{O2}</m> and the rate of production of <m>\ce{NO}</m> related? Express the relation as a mathematical equation.</p>
       <p>
-        If the rate of consumption of <m>\ce{O2}</m> is <ndash />0.051 M/min, what is the rate of production of <m>\ce{NO}</m>?
+        If the rate of consumption of <m>\ce{O2}</m> is <minus />0.051 M/min, what is the rate of production of <m>\ce{NO}</m>?
       </p>
     </statement>
     <solution>
@@ -56,6 +56,28 @@
         Enter your response in units of molarity per second (M/s) to the nearest 0.001 M/s.
       </p>
     </statement>
+    <solution>
+      <p>
+        Solution goes here!
+      </p>
+    </solution>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        The rate of production of <m>\ce{N2(g)}</m> in the reaction below is 0.016 M/s.
+      </p>
+
+      <p>
+        <m>\ce{2 NO(g) + 2 H2(g) -> N2(g) + 2 H2O(g)}</m>
+      </p>
+
+      <p>
+        What is the standard rate of reaction? Enter your response in units of molarity per second (M/s) to the nearest 0.001 M/s.
+      </p>
+    </statement>
+
     <solution>
       <p>
         Solution goes here!
