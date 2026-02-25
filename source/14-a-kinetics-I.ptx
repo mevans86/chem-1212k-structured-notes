@@ -84,4 +84,23 @@
       </p>
     </solution>
   </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Use the graph below to determine the instantaneous rate of production of B at <m>t</m> = 20 seconds. Enter your response in units of molarity per second (M/s) to the nearest 0.0001 M/s.
+      </p>
+
+      <p>
+        <image source="14-2-rate-tangents.png" width="90%">A plot of the concentration of B over time with tangent lines at 0, 20, and 40 seconds.</image>    
+      </p>
+    </statement>
+
+    <solution>
+      <p>
+        Solution goes here!
+      </p>
+    </solution>
+  </exercise>
+
 </section>
